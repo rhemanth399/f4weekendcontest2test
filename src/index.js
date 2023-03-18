@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+//import GenreFilter from './Components/GenreFilter';
 import reportWebVitals from './reportWebVitals';
+import GenreFilter from './Components/GenreFilter';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
